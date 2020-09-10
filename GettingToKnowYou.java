@@ -4,7 +4,7 @@ public class GettingToKnowYou
 
 public static void helloFromMrsMD()
 {
-  System.out.println("\n Hello and my favorite food is arroz con gandules.");
+  System.out.println("\n Hello and my favorite food is arroz con pollo.");
 
 }
 
